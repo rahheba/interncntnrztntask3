@@ -34,6 +34,7 @@ def home():
         <h1>Docker Compose Multi-Container Application</h1>
         <p>Flask Web Application is running successfully!</p>
         <p>Redis is connected successfully!</p>
+        <p>Deployed from GitHub feature branch!</p>
         <h2>Page Visits: {visits}</h2>
     </body>
     </html>
